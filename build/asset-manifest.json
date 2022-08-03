@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/arayush841/Birthday-Remainder/static/css/main.0bb73718.chunk.css",
+    "main.js": "/arayush841/Birthday-Remainder/static/js/main.acb35d6f.chunk.js",
+    "main.js.map": "/arayush841/Birthday-Remainder/static/js/main.acb35d6f.chunk.js.map",
+    "runtime-main.js": "/arayush841/Birthday-Remainder/static/js/runtime-main.c1c25f9c.js",
+    "runtime-main.js.map": "/arayush841/Birthday-Remainder/static/js/runtime-main.c1c25f9c.js.map",
+    "static/js/2.1f771bf1.chunk.js": "/arayush841/Birthday-Remainder/static/js/2.1f771bf1.chunk.js",
+    "static/js/2.1f771bf1.chunk.js.map": "/arayush841/Birthday-Remainder/static/js/2.1f771bf1.chunk.js.map",
+    "index.html": "/arayush841/Birthday-Remainder/index.html",
+    "precache-manifest.b0324e32ec8ca7f1b46d4229ed96a0ae.js": "/arayush841/Birthday-Remainder/precache-manifest.b0324e32ec8ca7f1b46d4229ed96a0ae.js",
+    "service-worker.js": "/arayush841/Birthday-Remainder/service-worker.js",
+    "static/css/main.0bb73718.chunk.css.map": "/arayush841/Birthday-Remainder/static/css/main.0bb73718.chunk.css.map",
+    "static/js/2.1f771bf1.chunk.js.LICENSE.txt": "/arayush841/Birthday-Remainder/static/js/2.1f771bf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1c25f9c.js",
+    "static/js/2.1f771bf1.chunk.js",
+    "static/css/main.0bb73718.chunk.css",
+    "static/js/main.acb35d6f.chunk.js"
+  ]
+}
