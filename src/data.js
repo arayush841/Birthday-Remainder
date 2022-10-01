@@ -34,4 +34,18 @@ export default [
     image:
       'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
   },
+  {
+    id: 6,
+    name: 'Brittany Spears',
+    age: 20,
+    image:
+      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-4_t9nxjt.jpg',
+  },
+  {
+    id: 7,
+    name: 'James Jordan',
+    age: 45,
+    image:
+      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-3_ipa0mj.jpg',
+  },
 ];
