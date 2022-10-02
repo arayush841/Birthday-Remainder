@@ -48,4 +48,18 @@ export default [
     image:
       'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-3_ipa0mj.jpg',
   },
+  {
+    id:8,
+    name: 'John Doe',
+    age: 30,
+    image:
+      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg',
+  },
+  {
+    id: 9,
+    name: 'Jane Doe',
+    age: 25,
+    image:
+      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg',
+  }
 ];
